@@ -1,0 +1,82 @@
+﻿"CCAT      ","C1        ","C11       ",NULL,NULL
+"CCAT      ","C1        ","C12       ",NULL,NULL
+"CCAT      ","C1        ","C13       ",NULL,NULL
+"CCAT      ","C1        ","C14       ",NULL,NULL
+"CCAT      ","C1        ","C15       ","C151      ","C1511     "
+"CCAT      ","C1        ","C15       ","C152      ",NULL
+"CCAT      ","C1        ","C16       ",NULL,NULL
+"CCAT      ","C1        ","C17       ","C171      ",NULL
+"CCAT      ","C1        ","C17       ","C172      ",NULL
+"CCAT      ","C1        ","C17       ","C173      ",NULL
+"CCAT      ","C1        ","C17       ","C174      ",NULL
+"CCAT      ","C1        ","C18       ","C181      ",NULL
+"CCAT      ","C1        ","C18       ","C182      ",NULL
+"CCAT      ","C1        ","C18       ","C183      ",NULL
+"CCAT      ","C2        ","C21       ",NULL,NULL
+"CCAT      ","C2        ","C22       ",NULL,NULL
+"CCAT      ","C2        ","C23       ",NULL,NULL
+"CCAT      ","C2        ","C24       ",NULL,NULL
+"CCAT      ","C3        ","C31       ","C311      ",NULL
+"CCAT      ","C3        ","C31       ","C312      ",NULL
+"CCAT      ","C3        ","C31       ","C313      ",NULL
+"CCAT      ","C3        ","C32       ",NULL,NULL
+"CCAT      ","C3        ","C33       ","C331      ",NULL
+"CCAT      ","C3        ","C34       ",NULL,NULL
+"CCAT      ","C4        ","C41       ","C411      ",NULL
+"CCAT      ","C4        ","C42       ",NULL,NULL
+"ECAT      ","E1        ","E11       ",NULL,NULL
+"ECAT      ","E1        ","E12       ","E121      ",NULL
+"ECAT      ","E1        ","E13       ","E131      ",NULL
+"ECAT      ","E1        ","E13       ","E132      ",NULL
+"ECAT      ","E1        ","E14       ","E141      ",NULL
+"ECAT      ","E1        ","E14       ","E142      ",NULL
+"ECAT      ","E1        ","E14       ","E143      ",NULL
+"ECAT      ","E2        ","E21       ","E211      ",NULL
+"ECAT      ","E2        ","E21       ","E212      ",NULL
+"ECAT      ","E3        ","E31       ","E311      ",NULL
+"ECAT      ","E3        ","E31       ","E312      ",NULL
+"ECAT      ","E3        ","E31       ","E313      ",NULL
+"ECAT      ","E4        ","E41       ","E411      ",NULL
+"ECAT      ","E5        ","E51       ","E511      ",NULL
+"ECAT      ","E5        ","E51       ","E512      ",NULL
+"ECAT      ","E5        ","E51       ","E513      ",NULL
+"ECAT      ","E6        ","E61       ",NULL,NULL
+"ECAT      ","E7        ","E71       ",NULL,NULL
+"GCAT      ","G1        ","G15       ","G151      ",NULL
+"GCAT      ","G1        ","G15       ","G152      ",NULL
+"GCAT      ","G1        ","G15       ","G153      ",NULL
+"GCAT      ","G1        ","G15       ","G154      ",NULL
+"GCAT      ","G1        ","G15       ","G155      ",NULL
+"GCAT      ","G1        ","G15       ","G156      ",NULL
+"GCAT      ","G1        ","G15       ","G157      ",NULL
+"GCAT      ","G1        ","G15       ","G158      ",NULL
+"GCAT      ","G1        ","G15       ","G159      ",NULL
+"GCAT      ","GCRIM     ",NULL,NULL,NULL
+"GCAT      ","GDEF      ",NULL,NULL,NULL
+"GCAT      ","GDIP      ",NULL,NULL,NULL
+"GCAT      ","GDIS      ",NULL,NULL,NULL
+"GCAT      ","GENT      ",NULL,NULL,NULL
+"GCAT      ","GENV      ",NULL,NULL,NULL
+"GCAT      ","GFAS      ",NULL,NULL,NULL
+"GCAT      ","GHEA      ",NULL,NULL,NULL
+"GCAT      ","GJOB      ",NULL,NULL,NULL
+"GCAT      ","GMIL      ",NULL,NULL,NULL
+"GCAT      ","GOBIT     ",NULL,NULL,NULL
+"GCAT      ","GODD      ",NULL,NULL,NULL
+"GCAT      ","GPOL      ",NULL,NULL,NULL
+"GCAT      ","GPRO      ",NULL,NULL,NULL
+"GCAT      ","GREL      ",NULL,NULL,NULL
+"GCAT      ","GSCI      ",NULL,NULL,NULL
+"GCAT      ","GSPO      ",NULL,NULL,NULL
+"GCAT      ","GTOUR     ",NULL,NULL,NULL
+"GCAT      ","GVIO      ",NULL,NULL,NULL
+"GCAT      ","GVOTE     ",NULL,NULL,NULL
+"GCAT      ","GWEA      ",NULL,NULL,NULL
+"GCAT      ","GWELF     ",NULL,NULL,NULL
+"MCAT      ","M1        ","M11       ",NULL,NULL
+"MCAT      ","M1        ","M12       ",NULL,NULL
+"MCAT      ","M1        ","M13       ","M131      ",NULL
+"MCAT      ","M1        ","M13       ","M132      ",NULL
+"MCAT      ","M1        ","M14       ","M141      ",NULL
+"MCAT      ","M1        ","M14       ","M142      ",NULL
+"MCAT      ","M1        ","M14       ","M143      ",NULL
