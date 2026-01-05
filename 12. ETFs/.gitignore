@@ -1,0 +1,5 @@
+crsp_fund_summary.csv
+crsp_fund_portfolio_map.csv
+crsp_fund_monthly_returns.csv
+crsp_fund_daily_returns.csv
+*.csv
